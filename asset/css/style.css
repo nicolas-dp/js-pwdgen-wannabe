@@ -1,3 +1,14 @@
 body{
     background-color: blueviolet;
 }
+
+
+.psw_box{
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.text_orange{
+    color: orange;
+}
